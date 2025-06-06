@@ -1,3 +1,15 @@
+![header](https://capsule-render.vercel.app/api?type=transparent&text=Video_Mosaic(Blur))
+
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PyQt](https://img.shields.io/badge/-PyQt-blue) ![OpenCV](https://img.shields.io/badge/-OpenCV-Green)
+
+# Preview
+<img src="src/preview.png" alt="drawing" width="460" height = "400"/>
+
+# How To Use
+``` 
+python main.py 
+```
+
 # Reference
 - OpenCV: Cascade Classifier, (https://docs.opencv.org/4.x/db/d28/tutorial_cascade_classifier.html)
 - OpenCV: Smoothing Images, (https://docs.opencv.org/4.x/d4/d13/tutorial_py_filtering.html)
