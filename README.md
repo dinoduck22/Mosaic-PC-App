@@ -3,7 +3,7 @@
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PyQt](https://img.shields.io/badge/-PyQt-blue) ![OpenCV](https://img.shields.io/badge/-OpenCV-Green)
 
 # Preview
-<img src="src/preview.png" alt="drawing" width="460" height = "400"/>
+<img src="src/preview.png" alt="preview" width="460" height = "400"/>
 
 # How To Use
 ``` 
