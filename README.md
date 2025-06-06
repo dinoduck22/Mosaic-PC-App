@@ -6,7 +6,7 @@
 얼굴 자동 검출 모자이크 처리
 
 # Summary
-- 영상 파일(mp4) / 실시간 카메라
+- 영상 파일(mp4) 선택 / 실시간 카메라
 - HaarCascade / YuNet(DNN) 기법
 - 모자이크 처리 확인 / 저장
 - 단일 얼굴 선택 모자이크 해제 / 설정
@@ -16,6 +16,8 @@
 
 # How To Use
 ``` 
+git clone https://github.com/dinoduck22/Mosaic-PC-App.git
+cd Mosaic-PC-App
 python main.py 
 ```
 
