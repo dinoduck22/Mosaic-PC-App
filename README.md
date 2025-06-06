@@ -1,6 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&text=Video_Mosaic(Blur))
+![header](https://capsule-render.vercel.app/api?type=transparent&text=Video_Mosaic(Blur)&fontColor=FFD66B)
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PyQt](https://img.shields.io/badge/-PyQt-blue) ![OpenCV](https://img.shields.io/badge/-OpenCV-Green)
+
+# Overview
+얼굴 자동 검출 모자이크 처리
+
+# Summary
+- 영상 파일(mp4) / 실시간 카메라
+- HaarCascade / YuNet(DNN) 기법
+- 모자이크 처리 확인 / 저장
 
 # Preview
 <img src="src/preview.png" alt="preview" width="460" height = "400"/>
