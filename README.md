@@ -16,6 +16,8 @@
 
 # How To Use
 ``` 
+git clone https://github.com/dinoduck22/Mosaic-PC-App.git
+cd Mosaic-PC-App
 python main.py 
 ```
 
